@@ -358,7 +358,7 @@ export default {
     {
       referencia:
         'Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) & Organización Mundial de la Salud (OMS). (s.f.). <i>Codex alimentarius.</i> FAO.',
-      link: '. https://www.fao.org/fao-who-codexalimentarius/es/',
+      link: 'https://www.fao.org/fao-who-codexalimentarius/es/',
     },
     {
       referencia:

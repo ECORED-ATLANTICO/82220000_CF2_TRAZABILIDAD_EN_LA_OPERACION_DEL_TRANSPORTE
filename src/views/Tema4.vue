@@ -155,7 +155,7 @@
                 .col-12.mb-3
                   .tarjeta--5
                 .tarjeta--slider__title.mb-3.text-center.fw-bold Tecnología
-                .tarjeta--slider__content.text-center.mb-5 Hardware y software de identificación y monitoreo impactan la capacidad de medir con precisión.
+                .tarjeta--slider__content.text-center.mb-5 <i>Hardware</i> y <i>software</i> de identificación y monitoreo impactan la capacidad de medir con precisión.
             .tarjeta--fondo__slider-01.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3

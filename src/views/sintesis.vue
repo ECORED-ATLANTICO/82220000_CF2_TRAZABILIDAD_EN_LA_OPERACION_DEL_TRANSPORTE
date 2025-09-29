@@ -15,11 +15,11 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-9.order-2.order-lg-1(data-aos="fade-left")
         .cita-decorada
-          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-3.p-5
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-5.p-5
             p.mb-0 Asimismo, se analizan los criterios de seguridad, proporcionando herramientas para proteger los activos, la información y los procesos, y se presentan los principios y tipos de seguridad que influyen en la confiabilidad del sistema. Se examinan los indicadores de gestión de la operación, detallando su concepto, importancia, tipos, variables y principios de sostenibilidad para facilitar la toma de decisiones estratégicas y la mejora continua. Finalmente, se abordan los procedimientos operativos, incluyendo estructura y composición, métodos de captura y validación de datos, almacenamiento, reporting y análisis, consolidando competencias que permiten coordinar operaciones de transporte de manera transparente, segura y eficiente.
       .col-8.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3(data-aos="fade-left")
         figure
-          img(src="@/assets/curso/sintesis/img_4.png", class="img-fluid")
+          img(src="@/assets/curso/sintesis/img_4.png", class="img-fluid").h-100
 
     .row.justify-content-center
       .col-12.col-lg-12.mb-5.bgs.p-4.brad

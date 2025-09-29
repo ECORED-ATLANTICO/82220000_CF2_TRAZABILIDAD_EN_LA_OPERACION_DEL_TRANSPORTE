@@ -108,25 +108,25 @@
         ul.list-unstyled.mb-0
           li.d-flex.align-items-start.mb-1.border-bottom.border-dashed.pb-2
             i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color: #FE8849; font-size: 15px; line-height: 1.5;")
-            span <B>Identificación:</B> Título, código, versión y fechas.
+            span <B>Identificación:</B> título, código, versión y fechas.
           li.d-flex.align-items-start.mb-1.border-bottom.border-dashed.pb-2
             i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color: #FE8849; font-size: 15px; line-height: 1.5;")
-            span <B>Propósito y Alcance:</B> Qué busca el POE y a qué procesos aplica.
+            span <B>Propósito y alcance:</B> qué busca el POE y a qué procesos aplica.
           li.d-flex.align-items-start.mb-1.border-bottom.border-dashed.pb-2
             i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color: #FE8849; font-size: 15px; line-height: 1.5;")
-            span <B>Definiciones:</B> Glosario de términos o acrónimos.
+            span <B>Definiciones:</B> glosario de términos o acrónimos.
           li.d-flex.align-items-start.mb-1.border-bottom.border-dashed.pb-2
             i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color: #FE8849; font-size: 15px; line-height: 1.5;")
-            span <B>Roles:</B> Responsables de cada tarea.
+            span <B>Roles:</B> responsables de cada tarea.
           li.d-flex.align-items-start.mb-1.border-bottom.border-dashed.pb-2
             i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color: #FE8849; font-size: 15px; line-height: 1.5;")
-            span <B>Recursos:</B> Materiales, equipos y formularios necesarios.
+            span <B>Recursos:</B> materiales, equipos y formularios necesarios.
           li.d-flex.align-items-start.mb-1.border-bottom.border-dashed.pb-2
             i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color: #FE8849; font-size: 15px; line-height: 1.5;")
-            span <B>Ejecución y control:</B> Instrucciones, verificación y acciones correctivas.
+            span <B>Ejecución y control:</B> instrucciones, verificación y acciones correctivas.
           li.d-flex.align-items-start.mb-0
             i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color: #FE8849; font-size: 15px; line-height: 1.5;")
-            span <B>Referencias y revisiones:</B> Documentos relacionados e historial de cambios.
+            span <B>Referencias y revisiones:</B> documentos relacionados e historial de cambios.
 
     separador
 
@@ -151,7 +151,7 @@
           tr
             th.col-3.col-lg-3 Función / Componente
             th.col-4.col-lg-4 Descripción
-            th.col-4.col-lg-4 Ejemplo de Acción
+            th.col-4.col-lg-4 Ejemplo de acción
         tbody
           tr
             td.text-start.fw-bold Puntos Críticos de Control (PCC)
