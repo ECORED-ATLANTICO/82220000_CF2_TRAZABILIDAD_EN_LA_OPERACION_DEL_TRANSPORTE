@@ -29,7 +29,7 @@
           .col-2.col-lg-1.mb-lg-0.mb-3.d-none.d-lg-block
             img(src="@/assets/curso/temas/tema_4/img_3.svg", class="img-fluid")
           .col-12.col-lg-11
-            p.mb-0 El modelo <em>SMART</em> es una metodología para diseñar indicadores y objetivos de manera clara, precisa y accionable. Su nombre proviene de las siglas en inglés <em>Specific, Measurable, Achievable, Relevant, Time-bound</em>, y busca garantizar que cada indicador cumpla con criterios que faciliten su seguimiento y efectividad en la gestión operativa.
+            p.mb-0 El modelo SMART es una metodología para diseñar indicadores y objetivos de manera clara, precisa y accionable. Su nombre proviene de las siglas en inglés <em>Specific, Measurable, Achievable, Relevant, Time-bound</em>, y busca garantizar que cada indicador cumpla con criterios que faciliten su seguimiento y efectividad en la gestión operativa.
     .bg_img_5.mb-3
       .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
         .bloque-texto-t__img.mb-0

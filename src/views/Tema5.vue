@@ -156,7 +156,7 @@
           tr
             td.text-start.fw-bold Puntos Críticos de Control (PCC)
             td.text-start Identifica cada etapa donde se genera información clave de trazabilidad, asegurando consistencia y confiabilidad.
-            td.text-start Recepción de mercancía, almacenamiento, picking, carga, tránsito, entrega y devoluciones.
+            td.text-start Recepción de mercancía, almacenamiento, <i>picking</i>, carga, tránsito, entrega y devoluciones.
           tr.bg-table-01
             td.text-start.fw-bold Métodos de captura de datos
             td.text-start Define cómo se registran los datos de forma precisa y confiable, combinando tecnología y procedimientos.

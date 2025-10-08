@@ -210,7 +210,7 @@ export default {
       tema: 'Cadena de suministro.',
       referencia:
         'LASAD Soluciones Integrales. (2022, 1 de marzo). <i>¿Qué es una cadena de suministro?</i> [Video]. YouTube',
-      tipo: 'Sitio Video',
+      tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=YOqQjF-VHD0',
     },
     {
