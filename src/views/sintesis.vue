@@ -7,7 +7,7 @@
         figure
           img(src="@/assets/curso/sintesis/img_1.png", class="img-fluid")
       .col-12.col-lg-7.mb-lg-0.mb-0(data-aos="fade-left")
-        p.mb-0 El componente formativo métricas del sistema de trazabilidad permite comprender los procesos y herramientas esenciales para garantizar la visibilidad, control y eficiencia en la operación del transporte, desde su planificación hasta la evaluación de su desempeño. Se inicia con el estudio de la cadena de suministro, abordando su concepto, elementos y estándares de calidad, así como la normativa y políticas aplicables que aseguran la integridad de los productos y la eficiencia de la logística. Posteriormente, se profundiza en los parámetros de control, incluyendo su concepto y las métricas de desempeño, lo que permite establecer su importancia en la medición y optimización de la trazabilidad.
+        p.mb-0 El componente formativo Métricas del sistema de trazabilidad permite comprender los procesos y herramientas esenciales para garantizar la visibilidad, control y eficiencia en la operación del transporte, desde su planificación hasta la evaluación de su desempeño. Se inicia con el estudio de la cadena de suministro, abordando su concepto, elementos y estándares de calidad, así como la normativa y políticas aplicables que aseguran la integridad de los productos y la eficiencia de la logística. Posteriormente, se profundiza en los parámetros de control, incluyendo su concepto y las métricas de desempeño, lo que permite establecer su importancia en la medición y optimización de la trazabilidad.
       .col-12.col-lg-1.d-none.d-lg-block.mb-0
         figure
           img(src="@/assets/curso/sintesis/img_2.svg", class="img-fluid")  
