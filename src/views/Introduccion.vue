@@ -21,7 +21,7 @@
           img(src='@/assets/curso/introduccion/img_1.png',  class="img-fluid")
     figure.mb-1
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/X-HAyBJi1MI?si=FsYSgWCUXctMSAtO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/sFFB2AzX9cs?si=78YdlWfG1YRdKAnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     figcaption Video: Métricas del sistema de trazabilidad
       
 </template>
