@@ -24,7 +24,7 @@
     .row.justify-content-center
       .col-12.col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis/sintesis.svg", alt="El diagrama de flujo se muestra las métricas del sistema de trazabilidad teniendo en cuenta procesos y herramientas esenciales como la visibilidad, el control, y la eficiencia en la operación del transporte, desde su planificación hasta la evaluación del desempeño. En él también se evidencian los criterios de seguridad, la información de los procesos y se presentan los principios y tipos de seguridad que influyen en la confiabilidad del sistema. Se examinan diferentes indicadores para facilitar la toma de decisiones estratégicas y la mejora continua. Asimismo se abordan procedimientos operativos, consolidando competencias que permitan coordinar operaciones de transporte de manera eficiente, transparente y segura.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

@@ -82,14 +82,14 @@
                         img(src="@/assets/curso/temas/tema_1/img_12.png", class="img-fluid")
                     .card-content
                       h5.mb-3 Distribución y logística (<i>Deliver</i>)
-                      p.mb-0 Gestión de almacenes, transporte, pedidos y logística inversa. Permite trazabilidad hacia adelante y hacia atrás mediante información de envíos, ubicaciones y devoluciones.
+                      p.mb-0 Gestión de almacenes, transporte, pedidos y logística inversa. Permite trazabilidad hacia delante y hacia atrás mediante información de envíos, ubicaciones y devoluciones.
                   .info-card(data-card="5")
                     .img-circulo 
                       figure
                         img(src="@/assets/curso/temas/tema_1/img_10.png", class="img-fluid")
                     .card-content
                       h5.mb-3 Gestión de devoluciones (<i>Return</i>)
-                      p.mb-0 Procesos de recepción, clasificación y disposición de productos. Cierra el ciclo de vida y facilita el control en retiros del mercado o postventa.
+                      p.mb-0 Procesos de recepción, clasificación y disposición de productos. Cierra el ciclo de vida y facilita el control en retiros del mercado o posventa.
                   .info-card(data-card="6")
                     .img-circulo 
                       figure

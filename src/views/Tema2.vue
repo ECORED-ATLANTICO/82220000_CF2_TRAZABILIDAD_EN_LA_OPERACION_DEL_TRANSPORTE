@@ -23,7 +23,7 @@
 
       p.mb-5 Los parámetros de control son criterios, variables o condiciones previamente definidos que se utilizan para supervisar y evaluar el desempeño de un proceso logístico. Su función es establecer puntos de referencia que permitan medir la eficiencia, seguridad y calidad de las operaciones:
 
-      .row.justify-content-center.align-items-center
+      .row.justify-content-center.align-items-star
         .col-8.col-lg-8.col-xl-2.mb-lg-0.mb-3
           img(src='@/assets/curso/temas/tema_2/img_2.png',  class="img-fluid cita-decorada__imagen-flotante-2")
         .col-12.col-lg-12.col-xl-10
@@ -38,7 +38,7 @@
             .tarjeta.color-terciario-10.p-4.h-100.tarjeta-tabs-a__tarjeta(titulo="Medición del desempeño")
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.col-lg-8.order-2.order-lg-1.mb-0
-                  p.mb-0 A través de los parámetros de control se pueden establecer indicadores cuantitativos y cualitativos que muestran el nivel de cumplimiento de las metas. Estos resultados facilitan la comparación entre periodos, procesos o áreas, generando información clave para evaluar la productividad y la trazabilidad.
+                  p.mb-0 A través de los parámetros de control, se pueden establecer indicadores cuantitativos y cualitativos que muestran el nivel de cumplimiento de las metas. Estos resultados facilitan la comparación entre periodos, procesos o áreas, generando información clave para evaluar la productividad y la trazabilidad.
                 .col-6.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
                   figure
                     img(src='@/assets/curso/temas/tema_2/img_4.png', class="img-fluid")
@@ -77,7 +77,7 @@
         .row.justify-content-center.align-items-center
           .col-12.col-lg-6.order-2.order-lg-1.mb-0
             h5 Tiempo de respuesta de la consulta
-            p.mb-0 Tiempo que tarda el sistema en recuperar información de un artículo o lote. Impacta eficiencia y capacidad de reacción.
+            p.mb-0 Tiempo que tarda el sistema en recuperar información de un artículo o lote. Impacta la eficiencia y capacidad de reacción.
           .col-12.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_2/img_9.png', class="img-fluid")

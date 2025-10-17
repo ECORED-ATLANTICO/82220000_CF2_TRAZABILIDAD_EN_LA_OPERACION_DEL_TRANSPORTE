@@ -191,7 +191,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA2_82220000_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -225,8 +225,7 @@ export default {
       referencia:
         'Patiño-González, M. A., & Agudelo-Rico, H. A. (2018). <i>Medición para cadenas de suministro bajo indicadores claves de desempeño (KPI) y tecnologías de información.</i>',
       tipo: 'Manual PDF',
-      link:
-        'https://revistas.unilibre.edu.co/index.php/dictamenlibre/article/view/5147/4365',
+      link: 'https://dialnet.unirioja.es/descarga/articulo/7137080.pdf',
     },
   ],
   glosario: [

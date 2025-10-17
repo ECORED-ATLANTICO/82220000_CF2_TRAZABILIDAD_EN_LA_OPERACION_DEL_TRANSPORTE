@@ -254,7 +254,7 @@
               .col-12.col-lg-3.d-none.d-lg-block
                 img(src='@/assets/curso/temas/tema_4/img_17.png',  class="img-fluid cita-decorada__imagen-flotante-3")
               .col-12.col-lg-8
-                p.cita-decorada__texto Integrar la sostenibilidad en los KPIs de trazabilidad fortalece la competitividad, genera eficiencia, mejora la reputación de marca y atrae aliados estratégicos conscientes del impacto social y ambiental.
+                p.cita-decorada__texto Integrar la sostenibilidad en los KPIs de trazabilidad, fortalece la competitividad, genera eficiencia, mejora la reputación de marca y atrae aliados estratégicos conscientes del impacto social y ambiental.
 </template>
 
 <script>
